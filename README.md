@@ -34,9 +34,11 @@ and segments customers into meaningful groups.
 ---
 
 ## 📸 Demo
-![Dashboard](assets/customersegmentation.png)
-![Clusters](assets/cluster.png)
-![Clusters](assets/notations.png)
+<img width="983" height="800" alt="customer" src="https://github.com/user-attachments/assets/7e445b66-521a-4e97-8892-3e450e17b5b9" />
+<img width="931" height="850" alt="cluster" src="https://github.com/user-attachments/assets/7fab88e0-61ec-4ca4-853e-7c23c14b2daa" />
+<img width="650" height="151" alt="notations" src="https://github.com/user-attachments/assets/c8326266-cebe-4935-bd72-e5a10429bb6b" />
+
+---
 
 ## 📊 Customer Segments
 - 🔵 Occasional Customers
