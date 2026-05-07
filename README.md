@@ -34,8 +34,8 @@ and segments customers into meaningful groups.
 ---
 
 ## 📸 Demo
-![Dashboard](assets/customer_segmentation.png)
-![Clusters](assets/clusters.png)
+![Dashboard](assets/customer segmentation.png)
+![Clusters](assets/cluster.png)
 ![Clusters](assets/notations.png)
 
 ## 📊 Customer Segments
