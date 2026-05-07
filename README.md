@@ -34,7 +34,9 @@ and segments customers into meaningful groups.
 ---
 
 ## 📸 Demo
-
+![Dashboard](assets/customer_segmentation.png)
+![Clusters](assets/clusters.png)
+![Clusters](assets/notations.png)
 
 ## 📊 Customer Segments
 - 🔵 Occasional Customers
